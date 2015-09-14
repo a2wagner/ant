@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['h',['h',['../classant_1_1analysis_1_1physics_1_1_delta_plus_physics_1_1_histogm.html#a4b2fe02fe5b66017ee7acd20de3ed0fb',1,'ant::analysis::physics::DeltaPlusPhysics::Histogm']]],
+  ['h_5fbananas',['h_bananas',['../classant_1_1calibration_1_1_p_i_d___energy_1_1_the_physics.html#a33cab3af2f300837ffa251c5044faad6',1,'ant::calibration::PID_Energy::ThePhysics']]],
+  ['h_5fpeaks',['h_peaks',['../structant_1_1calibration_1_1_c_b___energy_1_1_g_u_i___gains.html#a5173e65ed140b3d7779cce72bc0679c8',1,'ant::calibration::CB_Energy::GUI_Gains']]],
+  ['h_5fpedestals',['h_pedestals',['../classant_1_1calibration_1_1_p_i_d___energy_1_1_the_physics.html#a4adfe330668cbfa0b70a1e6899e24048',1,'ant::calibration::PID_Energy::ThePhysics']]],
+  ['h_5fprojection',['h_projection',['../structant_1_1calibration_1_1_c_b___energy_1_1_g_u_i___gains.html#a3cb1f64f0f04026adb60b20ad7abbb64',1,'ant::calibration::CB_Energy::GUI_Gains::h_projection()'],['../structant_1_1calibration_1_1_p_i_d___energy_1_1_g_u_i___pedestals.html#ad65b41ac6f543cb2c33dafc7671da160',1,'ant::calibration::PID_Energy::GUI_Pedestals::h_projection()'],['../classant_1_1calibration_1_1_p_i_d___phi_angle_1_1_the_g_u_i.html#a961e59489dd61062a29c6c5023ffa381',1,'ant::calibration::PID_PhiAngle::TheGUI::h_projection()']]],
+  ['h_5frelative',['h_relative',['../structant_1_1calibration_1_1_c_b___energy_1_1_g_u_i___gains.html#aa29f3aca364ac0ec04641f9379fb9d79',1,'ant::calibration::CB_Energy::GUI_Gains']]],
+  ['h_5fresult',['h_result',['../classant_1_1calibration_1_1_p_i_d___phi_angle_1_1_the_g_u_i.html#a9fc21e648031d187d1723bd70b4e3eeb',1,'ant::calibration::PID_PhiAngle::TheGUI']]],
+  ['h_5ftimewalk',['h_timewalk',['../classant_1_1calibration_1_1_c_b___time_walk_1_1_the_physics.html#aef24c87c321834fba863752c8740e1e1',1,'ant::calibration::CB_TimeWalk::ThePhysics']]],
+  ['h_5ftimewalk_5foverview',['h_timewalk_overview',['../classant_1_1calibration_1_1_c_b___time_walk_1_1_the_physics.html#a51be31b76d757cb44a6436edfc521bfb',1,'ant::calibration::CB_TimeWalk::ThePhysics']]],
+  ['h_5ftitle',['h_title',['../classant_1_1analysis_1_1physics_1_1_delta_plus_physics_1_1_histogm.html#ae346de54e15d51f00cbb080044c9cf3e',1,'ant::analysis::physics::DeltaPlusPhysics::Histogm']]],
+  ['hasenergy',['hasEnergy',['../classant_1_1analysis_1_1input_1_1_tagger_input.html#a49f5e38c668b72e502f181ef417bb133',1,'ant::analysis::input::TaggerInput']]],
+  ['hashelicity',['hasHelicity',['../classant_1_1analysis_1_1input_1_1_trigger_input.html#a400d264cc9a9fd910e73bf46a8d5800d',1,'ant::analysis::input::TriggerInput']]],
+  ['hasmcid',['hasMCID',['../classant_1_1analysis_1_1input_1_1_trigger_input.html#a3056edf2756c0486ef72afef5cc9daa8',1,'ant::analysis::input::TriggerInput']]],
+  ['havereconstruct',['haveReconstruct',['../classant_1_1analysis_1_1input_1_1_ant_reader.html#a2f60dc2ad4d23e4344a4bca447b9561f',1,'ant::analysis::input::AntReader']]],
+  ['helicity',['helicity',['../classant_1_1analysis_1_1input_1_1_trigger_input.html#acd9790d87f3fffffdd0fd3faf9e15573',1,'ant::analysis::input::TriggerInput']]],
+  ['hist',['hist',['../structant_1_1analysis_1_1physics_1_1_particle_i_d_check_1_1branch__hists.html#a4f7bc4533cde1eb36283552999ba332b',1,'ant::analysis::physics::ParticleIDCheck::branch_hists::hist()'],['../structant_1_1calibration_1_1gui_1_1_avg_buffer_1_1buffer__entry.html#a3f77c2eba02e6837be28f0bbaa0d91d0',1,'ant::calibration::gui::AvgBuffer::buffer_entry::hist()'],['../classant_1_1calibration_1_1gui_1_1_cal_canvas.html#a26ee8d49d8be409cb3ba88a5c3d04b14',1,'ant::calibration::gui::CalCanvas::hist()']]],
+  ['histfac',['HistFac',['../classant_1_1analysis_1_1_physics.html#a015f068455b43994ebd40e8928d33bf1',1,'ant::analysis::Physics']]],
+  ['histogram',['histogram',['../classant_1_1analysis_1_1_smart_hist1_base.html#a42c19aa8ed1e2b3d18f282abf9cd0c0e',1,'ant::analysis::SmartHist1Base']]],
+  ['hit',['Hit',['../structant_1_1reconstruct_1_1_adaptor_t_cluster_hit.html#aea40c1e679f7c5869ddd1a6664463b14',1,'ant::reconstruct::AdaptorTClusterHit::Hit()'],['../structant_1_1reconstruct_1_1clustering_1_1crystal__t.html#a592f7f3ecd900aabe872e020e403d3eb',1,'ant::reconstruct::clustering::crystal_t::Hit()']]],
+  ['hit_5fmappings',['hit_mappings',['../classant_1_1unpacker_1_1acqu_1_1_file_format_base.html#af67dd431587453db39ae0a00bc23ab59',1,'ant::unpacker::acqu::FileFormatBase']]],
+  ['hit_5fmappings_5fptr',['hit_mappings_ptr',['../classant_1_1unpacker_1_1acqu_1_1_file_format_base.html#ae0f93e49be1631e0da7e7ecab919c052',1,'ant::unpacker::acqu::FileFormatBase']]],
+  ['hit_5fstorage',['hit_storage',['../classant_1_1unpacker_1_1acqu_1_1_file_format_base.html#a3e1f1554250aa782861f4637eae5d0b9',1,'ant::unpacker::acqu::FileFormatBase']]],
+  ['hits',['Hits',['../classant_1_1analysis_1_1data_1_1_cluster.html#aca57d99f187ff4dcf8eb85be9c247aaa',1,'ant::analysis::data::Cluster::Hits()'],['../structant_1_1_t_cluster.html#a7b862d6fc2cd8c84f091a1dfac8c2023',1,'ant::TCluster::Hits()'],['../structant_1_1_t_detector_read.html#a127a73dbed90408719c5da59f3302354',1,'ant::TDetectorRead::Hits()'],['../structant_1_1_t_tagger.html#ae0b5f9d49b4990c09bc5501e06deec38',1,'ant::TTagger::Hits()']]],
+  ['htime',['hTime',['../classant_1_1calibration_1_1_time_1_1_the_physics.html#a5aec8767f4cd5c245adac62305d3118f',1,'ant::calibration::Time::ThePhysics']]]
+];
